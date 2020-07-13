@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\obj\Debug\netcoreapp2.1\Poker Hand Sorter.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\obj\Debug\netcoreapp2.1\Poker Hand Sorter.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\obj\Debug\netcoreapp2.1\Poker Hand Sorter.AssemblyInfo.cs
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\bin\Debug\netcoreapp2.1\Poker Hand Sorter.deps.json
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\bin\Debug\netcoreapp2.1\Poker Hand Sorter.runtimeconfig.json
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\bin\Debug\netcoreapp2.1\Poker Hand Sorter.runtimeconfig.dev.json
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\bin\Debug\netcoreapp2.1\Poker Hand Sorter.dll
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\bin\Debug\netcoreapp2.1\Poker Hand Sorter.pdb
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\obj\Debug\netcoreapp2.1\Poker Hand Sorter.dll
+C:\Users\Home\source\repos\Poker\Poker Hand Sorter\obj\Debug\netcoreapp2.1\Poker Hand Sorter.pdb
